@@ -6,6 +6,8 @@ interface User {
   login: string
   name: string
   followers: number
+  html_url: string
+  repos_url: string
 }
 
 export type { User }

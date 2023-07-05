@@ -10,5 +10,5 @@ export const Content = styled.main`
   flex-direction: column;
   width: 95%;
   max-width: 864px;
-  margin: 0 auto;
+  margin: 0 auto 3rem;
 `
